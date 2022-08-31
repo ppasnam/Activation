@@ -1,2 +1,0 @@
-colorama
-discord.py
